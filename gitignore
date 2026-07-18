@@ -1,0 +1,16 @@
+# Data (too large / not ours to redistribute — see README for source)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
